@@ -4,7 +4,7 @@
 
 ### 项目结构
 服务启动命令
-> python3 v2/mcp_server.py[mcp_server.py](v2/mcp_server.py)
+> python3 v2/[mcp_server.py](v2/mcp_server.py)
 > 
 > python3 v2/[openAI_server.py](v2/openAI_server.py)
 
