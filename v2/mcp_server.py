@@ -3,7 +3,7 @@ from openai import AzureOpenAI
 
 mcp = FastMCP("Math")
 AZURE_OPENAI_ENDPOINT = 'https://llm-365ai.openai.azure.com'
-AZURE_OPENAI_API_KEY = '856174a8453543389bcfb57142b1076f'
+AZURE_OPENAI_API_KEY = '856174a8453543389bcfb57142b1076'
 client = AzureOpenAI(
     azure_endpoint=AZURE_OPENAI_ENDPOINT,
     api_key=AZURE_OPENAI_API_KEY,
