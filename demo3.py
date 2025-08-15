@@ -24,7 +24,7 @@ data = {
 }
 HEADERS = {
     "Content-Type": "application/json",
-    "api-key": "856174a8453543389bcfb57142b1076f"
+    "api-key": "856174a8453543389bcfb57142b1076"
 }
 try:
     _start = time.time()
