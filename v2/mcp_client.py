@@ -6,7 +6,7 @@ import asyncio
 from langgraph.checkpoint.memory import InMemorySaver
 from langchain_openai import AzureChatOpenAI
 
-os.environ["AZURE_OPENAI_API_KEY"] = "856174a8453543389bcfb57142b1076f"
+os.environ["AZURE_OPENAI_API_KEY"] = "856174a8453543389bcfb57142b1076"
 AZURE_OPENAI_ENDPOINT = 'https://llm-365ai.openai.azure.com/'
 AZURE_OPENAI_DEPLOYMENT = 'gpt-5'
 
