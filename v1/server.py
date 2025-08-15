@@ -5,7 +5,7 @@ from openai import OpenAI
 mcp = FastMCP("Math")
 
 # 替换为 DeepSeek 的 API Key 和 Base URL
-os.environ["OPENAI_API_KEY"] = "8a72a5d2-002b-4649-86eb-03957430ae3c"
+os.environ["OPENAI_API_KEY"] = "8a72a5d2-002b-4649-86eb-03957430a3c"
 os.environ["OPENAI_API_BASE"] = "https://ark.cn-beijing.volces.com/api/v3"  # 假设 DeepSeek 兼容 OpenAI
 
 client = OpenAI()
